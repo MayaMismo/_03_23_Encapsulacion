@@ -15,5 +15,6 @@ public class Main {
         System.out.println("El precio del producto es: "  +p1.getPrecio());
         p1.setCantidadExistencia(250);
         System.out.println("Cantidad existencias: "  +p1.getCantidadExistencia());
+        //ejercicio en GitHub
     }
 }

@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c4c940e-6f82-49a1-8952-601fc9566332" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_03_23_Encapsulacion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adecco/modelo/producto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adecco/presentacion/Main.java" afterDir="false" />
+    <list default="true" id="6c4c940e-6f82-49a1-8952-601fc9566332" name="Changes" comment="23 marzo 13:08h">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adecco/presentacion/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adecco/presentacion/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +71,18 @@
       <option name="presentableId" value="Default" />
       <updated>1679566623167</updated>
     </task>
+    <task id="LOCAL-00001" summary="23 marzo 13:08h">
+      <created>1679573308451</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679573308451</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="23 marzo 13:08h" />
+    <option name="LAST_COMMIT_MESSAGE" value="23 marzo 13:08h" />
   </component>
 </project>
